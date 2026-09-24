@@ -1,0 +1,18 @@
+# Godot
+.godot/
+*.import
+export.cfg
+export_presets.cfg
+
+# Экспорт
+*.exe
+*.pck
+*.zip
+
+# Система
+.DS_Store
+Thumbs.db
+
+# Редактор
+.vscode/
+.idea/
